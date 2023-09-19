@@ -54,9 +54,12 @@ for example :
 `9:00 AM` should be `900A`  
 `11:30 PM` should be `1130P`  
 
-## launch py
+## Launch py
 Open the terminal, navigate to your project directory, and execute the following command
 ```
 python main.py
 ```
 
+## References
+https://github.com/maxmilian/thsrc_captcha
+https://irs.thsrc.com.tw/IMINT/
