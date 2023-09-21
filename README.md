@@ -1,4 +1,4 @@
-# THSRC-booking-utility
+# THSRC-booking-utility python高鐵訂票
 
 ## 聲明
 該工具僅提供python爬蟲學習使用，一般使用並不會對網站造成損害，另請勿使用該工具惡意攻擊網站或非法用途，若使用該工具大量購票而觸及中華民國法律，後果請自負。
